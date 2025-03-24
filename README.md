@@ -30,9 +30,9 @@ Es la quineta y última tarea de la materia de Programación Web impartida por e
 A continuación, se muestran capturas de pantalla de las evidencias al realizar esta asignación:
 
 1. ![Captura 1](/public/img/img1.png)
-2. ![Captura 2](/public/img/web2.png)
-3. ![Captura 3](/public/img/web3.png)
-4. ![Captura 4](/public/img/web4.png)
+2. ![Captura 2](/public/img/img2.png)
+3. ![Captura 3](/public/img/img3.png)
+4. ![Captura 4](/public/img/img4.png)
 
 ---
 

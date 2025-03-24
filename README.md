@@ -41,19 +41,19 @@ A continuación, se muestran capturas de pantalla de las evidencias al realizar 
 
 ## 🚀 Instrucciones de Uso
 
-1. 🛠️ Cloná este repositorio:
+1. 🛠️ Clona este repositorio:
 
 ```bash
 git clone https://github.com/chrisfelixgil/Tarea5-servicio-web.git
 ```
 
-2. Instalá las dependencias:
+2. Instala las dependencias:
 
 ```bash
 npm install
 ```
 
-3. Iniciá el servidor:
+3. Inicia el servidor:
 
 ```bash
 node index.js

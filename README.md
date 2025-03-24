@@ -3,8 +3,8 @@
 ¡Hola! Soy **Christian Gil** 👋
 
 📌 **Matrícula:** 2012-1036  
-📚 **Materia:** Electiva 2  
-👨‍🏫 **Profesor:** Elvys Cruz  
+📚 **Materia:** Programación Web  
+👨‍🏫 **Profesor:** Raydelto Hernández Perera  
 🏫 **Institución:** ITLA  
 
 ## 📲 Descripción

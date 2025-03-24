@@ -27,13 +27,12 @@ Es la quineta y última tarea de la materia de Programación Web impartida por e
 
 ## 📸 Capturas de Pantalla
 
-A continuación, se muestran capturas de pantalla de la agenda en funcionamiento:
+A continuación, se muestran capturas de pantalla de las evidencias al realizar esta asignación:
 
-1.
-2.
-3.
-4.
-5.
+1. ![Captura 1](/img/web1.png)
+2. ![Captura 2](/img/web2.png)
+3. ![Captura 3](/img/web3.png)
+4. ![Captura 4](/img/web4.png)
 
 ---
 
@@ -97,23 +96,18 @@ tarea5-servicio-web/
 
 A continuación, las principales tecnologías usadas en el desarrollo del proyecto, junto con sus respectivos logos para que no queden dudas:
 
-🟩 **Node.js**
+
 ![Node.js](https://commons.wikimedia.org/wiki/File:Node.js_logo.svg)
 
-⚫ **Express.js**
 !Express.js
 
-🛰️ **Axios**
 ![Axios](https://commons.wikimedia.org/wiki/File:Axios_logo_%282020%29.svg)
 
-🟧 **HTML5**
-![HTML5](https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-📲 **CCS3**
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🟨 **JavaScript**
-![JavaScript](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 

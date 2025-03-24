@@ -33,6 +33,9 @@ A continuación, se muestran capturas de pantalla de las evidencias al realizar 
 2. ![Captura 2](/public/img/img2.png)
 3. ![Captura 3](/public/img/img3.png)
 4. ![Captura 4](/public/img/img4.png)
+5. ![Captura 4](/public/img/img5.png)
+6. ![Captura 4](/public/img/img6.png)
+7. ![Captura 4](/public/img/img7.png)
 
 ---
 

@@ -56,7 +56,7 @@ npm install
 3. Iniciá el servidor:
 
 ```bash
-npm start
+node index.js
 ```
 
 4. Abrí tu navegador en:
